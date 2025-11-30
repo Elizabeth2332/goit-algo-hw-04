@@ -23,6 +23,7 @@ timeit.timeit(lambda: algorithm(lst.copy()), number=1000)
 All measurements were repeated 1000 times
 
 ⏱ Results
+
 ![alt text](image.png)
 
 n = 100
