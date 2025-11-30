@@ -24,6 +24,7 @@ All measurements were repeated 1000 times
 
 ⏱ Results
 ![alt text](image.png)
+
 n = 100
  insertion_sort time: 0.00173
  merge_sort     time: 0.00181
