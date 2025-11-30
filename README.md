@@ -41,7 +41,9 @@ n = 5000
  merge_sort     time: 0.11355
  timsort        time: 0.00479
 
+
 📌 Analysis
+
 🔹 Insertion Sort
 
 Works very slowly on large lists.
