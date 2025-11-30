@@ -1,4 +1,4 @@
-This project compares the performance of three different sorting algorithms:
+📁 This project compares the performance of three different sorting algorithms:
 
 Insertion Sort (O(n²))
 
